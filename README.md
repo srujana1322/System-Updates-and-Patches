@@ -1,0 +1,1 @@
+This script updates and upgrades the system's package lists and packages. It also distributes updates to multiple servers via SSH. The script concludes by notifying the system administrator that updates have been applied.
